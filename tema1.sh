@@ -4,4 +4,3 @@ echo "$PWD"
 echo "$(ls -1)"
 echo "$(date)"
 echo "$(free -h)"
-test
