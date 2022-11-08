@@ -1,5 +1,5 @@
 #1/bin/bash
-echo "$USER"
+echo "$USER"test
 echo "$PWD"
 echo "$(ls -1)"
 echo "$(date)"
